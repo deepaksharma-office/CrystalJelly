@@ -462,7 +462,7 @@
                   "type": "text",
                   "name": "t:names.heading",
                   "settings": {
-                    "text": "<p>Crystals & Scents<br/><br/></p>",
+                    "text": "<p>Crystals & Scents</p>",
                     "width": "fit-content",
                     "max_width": "normal",
                     "alignment": "left",
