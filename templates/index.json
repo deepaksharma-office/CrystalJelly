@@ -436,11 +436,11 @@
                   "type": "text",
                   "name": "t:names.heading",
                   "settings": {
-                    "text": "<h2>Crystals & Scents</h2>",
+                    "text": "<p>Creations & Gifts</p>",
                     "width": "fit-content",
                     "max_width": "normal",
                     "alignment": "left",
-                    "type_preset": "rte",
+                    "type_preset": "h2",
                     "font": "var(--font-body--family)",
                     "font_size": "1rem",
                     "line_height": "normal",
@@ -462,7 +462,7 @@
                   "type": "text",
                   "name": "t:names.heading",
                   "settings": {
-                    "text": "<p>Crystals & Scents</p>",
+                    "text": "<p>Hats, patches, paint kits, magnets, DnD</p>",
                     "width": "fit-content",
                     "max_width": "normal",
                     "alignment": "left",
