@@ -1076,7 +1076,7 @@
             "button_6y4akU": {
               "type": "button",
               "settings": {
-                "label": "Shop now",
+                "label": "Build Your Hat",
                 "link": "shopify://collections/all",
                 "open_in_new_tab": false,
                 "style_class": "button",
@@ -1112,7 +1112,7 @@
         "section_width": "page-width",
         "section_height": "",
         "section_height_custom": 50,
-        "color_scheme": "scheme-4",
+        "color_scheme": "scheme-3",
         "background_media": "none",
         "video_position": "cover",
         "background_image_position": "cover",
@@ -1395,7 +1395,7 @@
             "button_idDGGY": {
               "type": "button",
               "settings": {
-                "label": "Shop now",
+                "label": "Shop Scents",
                 "link": "shopify://collections/all",
                 "open_in_new_tab": false,
                 "style_class": "button",
@@ -1587,7 +1587,7 @@
             "button_JA8D4U": {
               "type": "button",
               "settings": {
-                "label": "Shop now",
+                "label": "Shop Creations",
                 "link": "shopify://collections/all",
                 "open_in_new_tab": false,
                 "style_class": "button",
@@ -2448,6 +2448,7 @@
                   "name": "t:names.icon",
                   "settings": {
                     "icon": "price_tag",
+                    "image_upload": "shopify://shop_images/Icon.svg",
                     "width": 24,
                     "link": "",
                     "open_in_new_tab": false
@@ -2531,6 +2532,7 @@
                   "name": "t:names.icon",
                   "settings": {
                     "icon": "price_tag",
+                    "image_upload": "shopify://shop_images/Icon_2.svg",
                     "width": 24,
                     "link": "",
                     "open_in_new_tab": false
@@ -2614,6 +2616,7 @@
                   "name": "t:names.icon",
                   "settings": {
                     "icon": "price_tag",
+                    "image_upload": "shopify://shop_images/Icon_1.svg",
                     "width": 24,
                     "link": "",
                     "open_in_new_tab": false
@@ -2697,6 +2700,7 @@
                   "name": "t:names.icon",
                   "settings": {
                     "icon": "price_tag",
+                    "image_upload": "shopify://shop_images/Icon_3.svg",
                     "width": 24,
                     "link": "",
                     "open_in_new_tab": false
