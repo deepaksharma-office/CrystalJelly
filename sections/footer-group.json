@@ -303,7 +303,7 @@
       "settings": {
         "section_width": "full-width",
         "gap": 24,
-        "divider_thickness": 0,
+        "divider_thickness": 1,
         "color_scheme": "",
         "padding-block-start": 20,
         "padding-block-end": 48
