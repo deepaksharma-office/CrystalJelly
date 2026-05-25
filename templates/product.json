@@ -303,13 +303,13 @@
                 "text_LjECJA": {
                   "type": "text",
                   "settings": {
-                    "text": "<p><strong>You may also like</strong></p>",
+                    "text": "<p><strong>Pairs well with</strong></p>",
                     "width": "fit-content",
                     "max_width": "normal",
                     "alignment": "left",
                     "type_preset": "custom",
                     "font": "var(--font-body--family)",
-                    "font_size": "1.25rem",
+                    "font_size": "1rem",
                     "line_height": "normal",
                     "letter_spacing": "normal",
                     "case": "none",
